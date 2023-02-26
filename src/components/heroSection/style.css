@@ -4,7 +4,7 @@
 
 .section {
     min-height: 100vh;
-    text-align: center;
+    padding-top: 60px;  /*critical*/
 }
 
 .heading {

@@ -16,7 +16,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div className="flex flex-col center section max-width">
+      <div className="flex flex-col section max-width">
         <div className="heading">rewards for paying credit card bills.</div>
         <div className="subheading">
           join 9M+ members who win rewards and cashbacks everyday
