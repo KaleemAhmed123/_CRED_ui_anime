@@ -1,5 +1,5 @@
 import React, { useRef, useEffect, useState } from "react";
-
+import "./common.css";
 const ScreenText = ({ screen, setCurrentImg, i }) => {
   const ref = useRef(null);
   const [isVisible, setIsVisible] = useState(false);

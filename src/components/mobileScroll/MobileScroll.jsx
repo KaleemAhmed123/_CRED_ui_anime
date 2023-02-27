@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./style.css";
+import "./common.css";
 import ScreenText from "./ScreenText";
 
 const scrollData = [
