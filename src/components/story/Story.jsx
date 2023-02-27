@@ -7,9 +7,9 @@ const CredStory = () => {
       {/* wrapper for max-width*/}
       <div className="max-width flex story-wrapper">
         <div className="flex story-heading-wrapper">
-          <h2 className="story-heading">
+          <div className="story-heading">
             the story of CRED begins with trust.
-          </h2>
+          </div>
         </div>
         {/* three paras */}
         <div className="story-detail">
