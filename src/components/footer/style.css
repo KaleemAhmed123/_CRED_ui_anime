@@ -1,0 +1,33 @@
+.footer {
+    font-size: 20px;
+    font-weight: 600;
+    padding: 0px 45px 20px;
+    justify-content: flex-end;
+}
+a{
+    color: var(--link-blue);
+    margin-left: 5px;
+    letter-spacing: 0.5px;
+}
+i{
+    background: #e5e5e5;
+    padding: 5px;
+    color: blue;
+    border-radius: 50%;
+    margin-left: 5px;
+}
+
+
+@media all and (max-width: 1279px) {
+    .footer {
+        font-size: 16px;
+    }
+}
+
+@media all and (max-width: 767px) {
+    .footer {
+        font-size: 12px;
+        justify-content: flex-start;
+    }
+
+}

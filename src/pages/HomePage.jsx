@@ -9,6 +9,8 @@ import ProductShowcase from "../components/productShowcase/ProductShowcase";
 import WindowPeak from "../components/peak/WindowPeak";
 import MobileScroll from "../components/mobileScroll/MobileScroll";
 import Story from "../components/story/Story";
+import AppRating from "../components/Rating/Rating";
+import Footer from "../components/footer/Footer";
 const HomePage = () => {
   return (
     <>
@@ -22,6 +24,8 @@ const HomePage = () => {
       <Experience />
       <Security />
       <Story />
+      <AppRating />
+      <Footer />
     </>
   );
 };
