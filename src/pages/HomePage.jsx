@@ -8,7 +8,7 @@ import Hero from "../components/heroSection/Hero";
 import ProductShowcase from "../components/productShowcase/ProductShowcase";
 import WindowPeak from "../components/peak/WindowPeak";
 import MobileScroll from "../components/mobileScroll/MobileScroll";
-
+import Story from "../components/story/Story";
 const HomePage = () => {
   return (
     <>
@@ -18,11 +18,10 @@ const HomePage = () => {
       <FeelSpecial />
       <Brands />
       <MobileScroll />
-      <Experience />
-      {/* <div className="non-mobile"> */}
       <WindowPeak />
-      {/* </div> */}
+      <Experience />
       <Security />
+      <Story />
     </>
   );
 };

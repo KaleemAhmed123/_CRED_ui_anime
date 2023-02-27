@@ -14,7 +14,7 @@ const ScreenText = ({ screen, setCurrentImg, i }) => {
   const options = {
     root: null,
     rootMargin: "0px",
-    threshold: 0.6,
+    threshold: 0.5,
   };
 
   useEffect(() => {
