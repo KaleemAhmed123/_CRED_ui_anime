@@ -1,0 +1,14 @@
+.mobile-scroll{
+    position: relative;
+    padding: 70px 0;
+}
+.moving-text-wrapper{
+    width: 50%;
+}
+
+.moving-text{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

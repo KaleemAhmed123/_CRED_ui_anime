@@ -10,20 +10,22 @@
 .heading {
     font-size: 106px;
     font-weight: 700;
+    margin-top: 150px;
 }
 
 .subheading {
     line-height: 38px;
+    text-align: left;
     font-size: 30px;
     font-weight: 700;
-    margin: 35px 58px;
+    margin: 35px 10px;
 }
 
 .claim-label {
     background-color: var(--bg-gray);
     width: 100%;
     position: absolute;
-    height: 72px;
+    height: 92px;
     font-size: 25px;
     line-height: 30px;
     font-weight: 600;
