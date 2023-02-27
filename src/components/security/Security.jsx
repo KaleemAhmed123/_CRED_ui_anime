@@ -22,7 +22,7 @@ const FeelSpecial = () => {
               no room for mistakes because we didn’t leave any.
             </div>
             <div className="photo-section-button">
-              <Button buttonText="Become a member" />
+              <Button text="Become a member" />
             </div>
           </div>
         </div>
