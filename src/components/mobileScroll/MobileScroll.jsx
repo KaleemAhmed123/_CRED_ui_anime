@@ -50,7 +50,7 @@ const MobileScroll = () => {
         {/* for mobile body faking */}
         <div className="mobile-mockup ">
           {/* for alignment in fake body */}
-          <div className="mobile-mockup-screen flex absolute-center">
+          <div className="mobile-mockup-screen flex center">
             <img
               src={scrollData[currentImg].mobile_img}
               className="mobile-screen-img slide-in-right "
